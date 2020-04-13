@@ -1,0 +1,18 @@
+[submodule "webapps-calculator"]
+	path = webapps-calculator
+	url = https://github.com/guillaumeprevot/webapps-calculator
+[submodule "webapps-cipher"]
+	path = webapps-cipher
+	url = https://github.com/guillaumeprevot/webapps-cipher
+[submodule "webapps-diaporama"]
+	path = webapps-diaporama
+	url = https://github.com/guillaumeprevot/webapps-diaporama
+[submodule "webapps-digest"]
+	path = webapps-digest
+	url = https://github.com/guillaumeprevot/webapps-digest
+[submodule "webapps-editor"]
+	path = webapps-editor
+	url = https://github.com/guillaumeprevot/webapps-editor
+[submodule "webapps-pdf"]
+	path = webapps-pdf
+	url = https://github.com/guillaumeprevot/webapps-pdf
